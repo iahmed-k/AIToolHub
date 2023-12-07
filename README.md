@@ -1,5 +1,6 @@
 # AIToolHub
 AIToolHub: A go-to platform for exploring and using diverse AI tools. Discover, learn, and seamlessly access artificial intelligence resources. Tailored for developers, data scientists, students, and AI enthusiasts. Unlock the power of AI in your projects.
+
 **How AIHub Central Works:**
 
 **Search and Discovery:** Users can easily search for specific AI tools or explore curated categories based on functionalities such as machine learning, natural language processing, computer vision, and more.
